@@ -24,6 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hellvolhard07&show_icons=true&theme=dracula&locale=en" alt="hellvolhard07" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hellvolhard07&show_icons=true&theme=dracula&locale=en&layout=compact" alt="hellvolhard07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hellvolhard07&theme=dark" alt="hellvolhard07" /></p>
