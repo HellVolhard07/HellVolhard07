@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Flutter Development and DSA.**
 
-- 🌱 I’m currently learning **Web Development.**
+- 🌱 I’m currently learning **Web Development and Three.js.**
 
 - 👯 I’m looking to collaborate on **Flutter Projects.**
 
